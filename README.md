@@ -49,8 +49,8 @@ team that a Pull Request has been merged.  Also, before every feature branch is 
 we will pull master to ensure we are working with the most up to date code.
 
 ## WEB APP DATABASE SCHEMA
+![tictactoe schema](https://user-images.githubusercontent.com/39015829/50115748-2e7fec80-01fd-11e9-9672-4fce0afbfb7d.jpg)
 
-![TicTacToeDbSchema](./Assets/TicTacToe_DbSchema.jpg)
 
 ## TOOLS USED 
 
