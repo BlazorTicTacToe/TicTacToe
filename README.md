@@ -49,7 +49,7 @@ team that a Pull Request has been merged.  Also, before every feature branch is 
 we will pull master to ensure we are working with the most up to date code.
 
 ## WEB APP DATABASE SCHEMA
-![tictactoe schema](https://user-images.githubusercontent.com/39015829/50115748-2e7fec80-01fd-11e9-9672-4fce0afbfb7d.jpg)
+![tictactoe schema](https://user-images.githubusercontent.com/39015829/50115748-2e7fec80-01fd-11e9-9672-4fce0afbfb7d.jpg)</br>
 
 
 ## TOOLS USED 
@@ -60,7 +60,9 @@ we will pull master to ensure we are working with the most up to date code.
 ## SAMPLE VIEWS OF WEB APP   
 
 #### Landing Page
+![tictactoe landing page](https://user-images.githubusercontent.com/39015829/50115758-350e6400-01fd-11e9-9a5b-50dcd9a4609f.jpg)</br>
 
 #### Scores History Page
 
 #### About Us Page
+![tictactoe about us](https://user-images.githubusercontent.com/39015829/50115757-350e6400-01fd-11e9-95d1-5c6a5b64403a.jpg)</br>
