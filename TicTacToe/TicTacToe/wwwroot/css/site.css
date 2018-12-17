@@ -357,3 +357,23 @@ background-color: rgba(255, 255, 255, 0.1);
         .profile-cardHeader h3 {
             margin: 0
         }
+.leaderboard, h1 {
+    font-size: 3rem;
+    text-align: center;
+    margin: 5%;
+}
+
+.scores {
+    /*margin: auto;
+    text-align: center;*/
+}
+
+.scores, th, td {
+    width: 25%;
+    text-align: center;
+    font-size: 2rem;
+}
+
+table {
+    margin: 0 auto;
+}
