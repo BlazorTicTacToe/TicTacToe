@@ -63,6 +63,6 @@ we will pull master to ensure we are working with the most up to date code.
 ![tictactoe landing page](https://user-images.githubusercontent.com/39015829/50115758-350e6400-01fd-11e9-9a5b-50dcd9a4609f.jpg)</br>
 
 #### Scores History Page
-![tictactoe leaderboard](https://user-images.githubusercontent.com/39015829/50117166-0befd280-0201-11e9-9da2-f5aef4d27eb2.jpg</br>
+![tictactoe leaderboard](https://user-images.githubusercontent.com/39015829/50117166-0befd280-0201-11e9-9da2-f5aef4d27eb2.jpg)</br>
 #### About Us Page
 ![tictactoe about us](https://user-images.githubusercontent.com/39015829/50115757-350e6400-01fd-11e9-95d1-5c6a5b64403a.jpg)</br>
