@@ -1,8 +1,6 @@
 # TIC TAC TOE
 
-401 Final project by Alex Stoforandov, Kris Riedman, Jamilah McWilliams, Christina Gislason
-
-Project: TicTacToe
+Project by Alex Stoforandov, Kris Riedman, Jamilah McWilliams, Christina Gislason
 
 ## DESCRIPTION
 
